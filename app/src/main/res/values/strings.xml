@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Breathalyser</string>
+    <string name="x">x</string>
+    <string name="_0_00">0,00</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="ml">ml</string>
+    <string name="pr">%</string>
+    <string name="kg">kg</string>
+    <string name="weight">Weight</string>
+    <string name="alcohol_in_ml">alcohol in ml</string>
+    <string name="procentage">procentage</string>
+    <string name="bla">‰</string>
+    <string name="new_measurement">New measurement</string>
+    <string name="add_alcohol">add alcohol</string>
+</resources>
