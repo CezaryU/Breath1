@@ -1,4 +1,4 @@
-package com.wel.wat.breathalyser
+package com.npz.Breath1
 
 import android.annotation.SuppressLint
 import android.graphics.Color
@@ -12,8 +12,8 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.wel.wat.breathalyser.database.Measurement
-import com.wel.wat.breathalyser.database.MeasurementViewModel
+import com.npz.Breath1.database.Measurement
+import com.npz.Breath1.database.MeasurementViewModel
 
 class MainActivity : AppCompatActivity() {
 

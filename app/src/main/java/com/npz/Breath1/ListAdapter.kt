@@ -1,4 +1,4 @@
-package com.wel.wat.breathalyser
+package com.npz.Breath1
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.view.menu.ActionMenuItemView
 import androidx.recyclerview.widget.RecyclerView
-import com.wel.wat.breathalyser.database.Measurement
+import com.npz.Breath1.database.Measurement
 import kotlinx.android.synthetic.main.custom_row.view.*
 
 class ListAdapter: RecyclerView.Adapter<ListAdapter.MyViewHolder>() {

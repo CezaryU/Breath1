@@ -1,4 +1,4 @@
-package com.wel.wat.breathalyser
+package com.npz.Breath1
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.wel.wat.breathalyser.database
+package com.npz.Breath1.database
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
